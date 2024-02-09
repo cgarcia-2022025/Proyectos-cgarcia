@@ -1,0 +1,11 @@
+mongoose 
+express
+dotenv -> variables de entorno(Para no tener String de conexion de codigo)
+cors -> politicas de acceso al server (seguridad)
+helmet -> seguridad del servidor (DDos)
+morgan -> manejo de logs
+bcrypt -> encriptar contraseñas
+jsonwebtoken -> manejo de sesiones por tokens
+
+Dependencias de desarrollo:
+nodemon
